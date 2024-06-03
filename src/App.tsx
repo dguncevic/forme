@@ -28,7 +28,8 @@ const columns = [
   {
     title: 'Gender',
     dataIndex: 'gender',
-    key: 'gender',
+    key: 'gender'
+    ,
   },
 ];
 
